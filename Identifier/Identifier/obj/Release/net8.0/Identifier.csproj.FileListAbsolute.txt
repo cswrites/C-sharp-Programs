@@ -1,0 +1,14 @@
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Identifier\Identifier\obj\Release\net8.0\Identifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Identifier\Identifier\obj\Release\net8.0\Identifier.AssemblyInfoInputs.cache
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Identifier\Identifier\obj\Release\net8.0\Identifier.AssemblyInfo.cs
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Identifier\Identifier\obj\Release\net8.0\Identifier.csproj.CoreCompileInputs.cache
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Identifier\Identifier\bin\Release\net8.0\Identifier.exe
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Identifier\Identifier\bin\Release\net8.0\Identifier.deps.json
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Identifier\Identifier\bin\Release\net8.0\Identifier.runtimeconfig.json
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Identifier\Identifier\bin\Release\net8.0\Identifier.dll
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Identifier\Identifier\bin\Release\net8.0\Identifier.pdb
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Identifier\Identifier\obj\Release\net8.0\Identifier.dll
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Identifier\Identifier\obj\Release\net8.0\refint\Identifier.dll
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Identifier\Identifier\obj\Release\net8.0\Identifier.pdb
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Identifier\Identifier\obj\Release\net8.0\Identifier.genruntimeconfig.cache
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Identifier\Identifier\obj\Release\net8.0\ref\Identifier.dll
