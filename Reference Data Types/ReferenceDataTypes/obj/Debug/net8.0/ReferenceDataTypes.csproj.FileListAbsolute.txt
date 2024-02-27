@@ -1,0 +1,14 @@
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Reference Data Types\ReferenceDataTypes\bin\Debug\net8.0\ReferenceDataTypes.exe
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Reference Data Types\ReferenceDataTypes\bin\Debug\net8.0\ReferenceDataTypes.deps.json
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Reference Data Types\ReferenceDataTypes\bin\Debug\net8.0\ReferenceDataTypes.runtimeconfig.json
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Reference Data Types\ReferenceDataTypes\bin\Debug\net8.0\ReferenceDataTypes.dll
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Reference Data Types\ReferenceDataTypes\bin\Debug\net8.0\ReferenceDataTypes.pdb
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Reference Data Types\ReferenceDataTypes\obj\Debug\net8.0\ReferenceDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Reference Data Types\ReferenceDataTypes\obj\Debug\net8.0\ReferenceDataTypes.AssemblyInfoInputs.cache
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Reference Data Types\ReferenceDataTypes\obj\Debug\net8.0\ReferenceDataTypes.AssemblyInfo.cs
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Reference Data Types\ReferenceDataTypes\obj\Debug\net8.0\ReferenceDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Reference Data Types\ReferenceDataTypes\obj\Debug\net8.0\ReferenceDataTypes.dll
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Reference Data Types\ReferenceDataTypes\obj\Debug\net8.0\refint\ReferenceDataTypes.dll
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Reference Data Types\ReferenceDataTypes\obj\Debug\net8.0\ReferenceDataTypes.pdb
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Reference Data Types\ReferenceDataTypes\obj\Debug\net8.0\ReferenceDataTypes.genruntimeconfig.cache
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Reference Data Types\ReferenceDataTypes\obj\Debug\net8.0\ref\ReferenceDataTypes.dll

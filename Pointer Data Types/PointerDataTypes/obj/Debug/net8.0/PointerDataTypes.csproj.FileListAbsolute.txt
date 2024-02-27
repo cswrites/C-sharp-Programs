@@ -1,0 +1,14 @@
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Pointer Data Types\PointerDataTypes\obj\Debug\net8.0\PointerDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Pointer Data Types\PointerDataTypes\obj\Debug\net8.0\PointerDataTypes.AssemblyInfoInputs.cache
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Pointer Data Types\PointerDataTypes\obj\Debug\net8.0\PointerDataTypes.AssemblyInfo.cs
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Pointer Data Types\PointerDataTypes\obj\Debug\net8.0\PointerDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Pointer Data Types\PointerDataTypes\bin\Debug\net8.0\PointerDataTypes.exe
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Pointer Data Types\PointerDataTypes\bin\Debug\net8.0\PointerDataTypes.deps.json
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Pointer Data Types\PointerDataTypes\bin\Debug\net8.0\PointerDataTypes.runtimeconfig.json
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Pointer Data Types\PointerDataTypes\bin\Debug\net8.0\PointerDataTypes.dll
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Pointer Data Types\PointerDataTypes\bin\Debug\net8.0\PointerDataTypes.pdb
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Pointer Data Types\PointerDataTypes\obj\Debug\net8.0\PointerDataTypes.dll
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Pointer Data Types\PointerDataTypes\obj\Debug\net8.0\refint\PointerDataTypes.dll
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Pointer Data Types\PointerDataTypes\obj\Debug\net8.0\PointerDataTypes.pdb
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Pointer Data Types\PointerDataTypes\obj\Debug\net8.0\PointerDataTypes.genruntimeconfig.cache
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Pointer Data Types\PointerDataTypes\obj\Debug\net8.0\ref\PointerDataTypes.dll
