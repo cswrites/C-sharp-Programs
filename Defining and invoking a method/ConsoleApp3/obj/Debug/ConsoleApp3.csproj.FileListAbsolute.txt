@@ -1,0 +1,7 @@
+C:\Users\ckara\OneDrive\Desktop\Feb1\C#\Mthod in c#\Defining and invoking a method\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\ckara\OneDrive\Desktop\Feb1\C#\Mthod in c#\Defining and invoking a method\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\ckara\OneDrive\Desktop\Feb1\C#\Mthod in c#\Defining and invoking a method\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\ckara\OneDrive\Desktop\Feb1\C#\Mthod in c#\Defining and invoking a method\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\ckara\OneDrive\Desktop\Feb1\C#\Mthod in c#\Defining and invoking a method\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\ckara\OneDrive\Desktop\Feb1\C#\Mthod in c#\Defining and invoking a method\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\ckara\OneDrive\Desktop\Feb1\C#\Mthod in c#\Defining and invoking a method\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
