@@ -1,0 +1,14 @@
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Boolean\Boolean\bin\Debug\net8.0\Boolean.exe
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Boolean\Boolean\bin\Debug\net8.0\Boolean.deps.json
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Boolean\Boolean\bin\Debug\net8.0\Boolean.runtimeconfig.json
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Boolean\Boolean\bin\Debug\net8.0\Boolean.dll
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Boolean\Boolean\bin\Debug\net8.0\Boolean.pdb
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Boolean\Boolean\obj\Debug\net8.0\Boolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Boolean\Boolean\obj\Debug\net8.0\Boolean.AssemblyInfoInputs.cache
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Boolean\Boolean\obj\Debug\net8.0\Boolean.AssemblyInfo.cs
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Boolean\Boolean\obj\Debug\net8.0\Boolean.csproj.CoreCompileInputs.cache
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Boolean\Boolean\obj\Debug\net8.0\Boolean.dll
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Boolean\Boolean\obj\Debug\net8.0\refint\Boolean.dll
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Boolean\Boolean\obj\Debug\net8.0\Boolean.pdb
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Boolean\Boolean\obj\Debug\net8.0\Boolean.genruntimeconfig.cache
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Boolean\Boolean\obj\Debug\net8.0\ref\Boolean.dll
