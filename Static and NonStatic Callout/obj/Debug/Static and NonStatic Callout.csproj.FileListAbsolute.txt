@@ -1,0 +1,7 @@
+C:\Users\ckara\OneDrive\Desktop\Feb1\C#\prvct\Static and NonStatic Callout\bin\Debug\Static and NonStatic Callout.exe.config
+C:\Users\ckara\OneDrive\Desktop\Feb1\C#\prvct\Static and NonStatic Callout\bin\Debug\Static and NonStatic Callout.exe
+C:\Users\ckara\OneDrive\Desktop\Feb1\C#\prvct\Static and NonStatic Callout\bin\Debug\Static and NonStatic Callout.pdb
+C:\Users\ckara\OneDrive\Desktop\Feb1\C#\prvct\Static and NonStatic Callout\obj\Debug\Static and NonStatic Callout.csproj.AssemblyReference.cache
+C:\Users\ckara\OneDrive\Desktop\Feb1\C#\prvct\Static and NonStatic Callout\obj\Debug\Static and NonStatic Callout.csproj.CoreCompileInputs.cache
+C:\Users\ckara\OneDrive\Desktop\Feb1\C#\prvct\Static and NonStatic Callout\obj\Debug\Static and NonStatic Callout.exe
+C:\Users\ckara\OneDrive\Desktop\Feb1\C#\prvct\Static and NonStatic Callout\obj\Debug\Static and NonStatic Callout.pdb
