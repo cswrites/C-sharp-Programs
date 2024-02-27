@@ -1,0 +1,14 @@
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Condition Program\If\NestedSwitch\Nested Switch\bin\Debug\net8.0\Nested Switch.exe
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Condition Program\If\NestedSwitch\Nested Switch\bin\Debug\net8.0\Nested Switch.deps.json
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Condition Program\If\NestedSwitch\Nested Switch\bin\Debug\net8.0\Nested Switch.runtimeconfig.json
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Condition Program\If\NestedSwitch\Nested Switch\bin\Debug\net8.0\Nested Switch.dll
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Condition Program\If\NestedSwitch\Nested Switch\bin\Debug\net8.0\Nested Switch.pdb
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Condition Program\If\NestedSwitch\Nested Switch\obj\Debug\net8.0\Nested Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Condition Program\If\NestedSwitch\Nested Switch\obj\Debug\net8.0\Nested Switch.AssemblyInfoInputs.cache
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Condition Program\If\NestedSwitch\Nested Switch\obj\Debug\net8.0\Nested Switch.AssemblyInfo.cs
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Condition Program\If\NestedSwitch\Nested Switch\obj\Debug\net8.0\Nested Switch.csproj.CoreCompileInputs.cache
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Condition Program\If\NestedSwitch\Nested Switch\obj\Debug\net8.0\Nested Switch.dll
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Condition Program\If\NestedSwitch\Nested Switch\obj\Debug\net8.0\refint\Nested Switch.dll
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Condition Program\If\NestedSwitch\Nested Switch\obj\Debug\net8.0\Nested Switch.pdb
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Condition Program\If\NestedSwitch\Nested Switch\obj\Debug\net8.0\Nested Switch.genruntimeconfig.cache
+C:\Users\ckara\OneDrive\Desktop\C sharp prep\Condition Program\If\NestedSwitch\Nested Switch\obj\Debug\net8.0\ref\Nested Switch.dll
